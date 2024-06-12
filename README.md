@@ -49,3 +49,10 @@ Ce projet couvre les aspects suivants :
 | Pas encore corrigé ! |
 
 ---
+
+### Contributeurs
+
+| ![Robin](https://github.com/rgeral.png?size=75) | ![Kellian](https://github.com/kbarbry.png?size=75) | ![Kellian](https://github.com/florian-a.png?size=75) |
+|:-----------------------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------------:|
+| **[Robin](https://github.com/rgeral)**          | **[Kellian](https://github.com/kbarbry)**           | **[Florian](https://github.com/florian-a)**           |
+
