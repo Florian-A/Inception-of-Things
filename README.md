@@ -12,13 +12,19 @@ Ce projet couvre les aspects suivants :
 
 ### Pré-requis :
 
+- GNU Make >= 3.81
 - VirtualBox >= 7.
 - Vagrant >= 2.4.
 - Make >= 3.81.
 
 ### Commandes disponibles :
 
-- `make` : Lancement du déploiement.
+- `make` : Lancement du projet.
+- `make down` : Détruit les machines virtuelles.
+- `make s` : Connexion en SSH au serveur.
+- `make sw` : Connexion en SSH au worker.
+- `make clean` : Nettoie le projet.
+- `make fclean` : Détruit et nettoie le projet.
 
 ---
 
