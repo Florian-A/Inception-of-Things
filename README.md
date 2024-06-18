@@ -46,7 +46,11 @@ Ce projet couvre les aspects suivants :
 
 | |
 | --- |
-| Pas encore corrigé ! |
+| <img src="./img/note.png" style="zoom: 80%;" /> |
+
+| | |
+| --- | --- |
+| Correcteur 1 | Pas encore corrigé ! |
 
 ---
 
